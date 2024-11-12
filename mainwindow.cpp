@@ -72,7 +72,7 @@ void MainWindow::Average()
 // Opens file browser to allow image file selection
 void MainWindow::Browse()
 {
-    m_imageFile = QFileDialog::getOpenFileName(this, tr("Select Image"), "", tr("Image Files (*.jpg, *.png)"));
+    m_imageFile = QFileDialog::getOpenFileName(this, tr("Select Image"), "", tr("Image Files (*.jpeg *.jpg *.png)"));
 
     // Return if no file is selected
     if (m_imageFile.isEmpty())
