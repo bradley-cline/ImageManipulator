@@ -1,9 +1,0 @@
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/ImageManipulator.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/edit_cache.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/list_install_components.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/install.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/install/local.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/install/strip.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/ImageManipulator_autogen_timestamp_deps.dir
-/home/brad/ImageManipulator/build/Desktop-Release/CMakeFiles/ImageManipulator_autogen.dir
